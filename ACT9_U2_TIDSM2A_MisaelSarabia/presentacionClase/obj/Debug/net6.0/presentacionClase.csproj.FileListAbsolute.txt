@@ -1,0 +1,15 @@
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.csproj.AssemblyReference.cache
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.AssemblyInfoInputs.cache
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.AssemblyInfo.cs
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.csproj.CoreCompileInputs.cache
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\presentacionClase.exe
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\presentacionClase.deps.json
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\presentacionClase.runtimeconfig.json
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\presentacionClase.dll
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\ref\presentacionClase.dll
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\bin\Debug\net6.0\presentacionClase.pdb
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.dll
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\ref\presentacionClase.dll
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.pdb
+C:\Users\juanjo\Desktop\actividad9\presentacionClase\obj\Debug\net6.0\presentacionClase.genruntimeconfig.cache
