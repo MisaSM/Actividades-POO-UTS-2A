@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\nombre.exe
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\nombre.deps.json
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\nombre.runtimeconfig.json
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\nombre.dll
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\ref\nombre.dll
+C:\Users\PC\Desktop\nombre\bin\Debug\net6.0\nombre.pdb
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.AssemblyInfo.cs
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.dll
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\ref\nombre.dll
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.pdb
+C:\Users\PC\Desktop\nombre\obj\Debug\net6.0\nombre.genruntimeconfig.cache

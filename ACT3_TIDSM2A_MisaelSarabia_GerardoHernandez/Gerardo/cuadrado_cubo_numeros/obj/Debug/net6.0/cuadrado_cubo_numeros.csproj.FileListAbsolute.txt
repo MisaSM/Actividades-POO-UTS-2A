@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.AssemblyInfo.cs
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\cuadrado_cubo_numeros.exe
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\cuadrado_cubo_numeros.deps.json
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\cuadrado_cubo_numeros.runtimeconfig.json
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\cuadrado_cubo_numeros.dll
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\ref\cuadrado_cubo_numeros.dll
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\bin\Debug\net6.0\cuadrado_cubo_numeros.pdb
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.dll
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\ref\cuadrado_cubo_numeros.dll
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.pdb
+C:\Users\PC\Desktop\cuadrado_cubo_numeros\obj\Debug\net6.0\cuadrado_cubo_numeros.genruntimeconfig.cache

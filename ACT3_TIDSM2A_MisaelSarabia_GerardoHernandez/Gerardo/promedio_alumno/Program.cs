@@ -1,0 +1,16 @@
+﻿// See https://aka.ms/new-console-template for more information;
+Console.WriteLine ("ingresa el calificación del alumno:(Faltan 6)");
+        double cal1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingresa el calificación del alumno:(Faltan 5)");
+        double cal2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingresa el calificación del alumno:(Faltan 4)");
+        double cal3 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingresa el calificación del alumno:(Faltan 3)");
+        double cal4 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingresa el calificación del alumno:(Faltan 2)");
+        double cal5 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("ingresa el calificación del alumno:(Faltan 1)");
+        double cal6 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("el promedio del alumno es:");
+        double promediototal =((cal1+cal2+cal3+cal4+cal5+cal6)/6);
+Console.WriteLine(promediototal);

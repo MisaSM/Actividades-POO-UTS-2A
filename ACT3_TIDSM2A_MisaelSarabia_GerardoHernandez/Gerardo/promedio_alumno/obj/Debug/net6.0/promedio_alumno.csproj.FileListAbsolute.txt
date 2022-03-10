@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\promedio_alumno.exe
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\promedio_alumno.deps.json
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\promedio_alumno.runtimeconfig.json
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\promedio_alumno.dll
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\ref\promedio_alumno.dll
+C:\Users\PC\Desktop\promedio_alumno\bin\Debug\net6.0\promedio_alumno.pdb
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.AssemblyInfo.cs
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.dll
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\ref\promedio_alumno.dll
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.pdb
+C:\Users\PC\Desktop\promedio_alumno\obj\Debug\net6.0\promedio_alumno.genruntimeconfig.cache

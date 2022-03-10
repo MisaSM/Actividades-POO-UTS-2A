@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\metros_pulgadas.exe
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\metros_pulgadas.deps.json
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\metros_pulgadas.runtimeconfig.json
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\metros_pulgadas.dll
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\ref\metros_pulgadas.dll
+C:\Users\PC\Desktop\metros_pulgadas\bin\Debug\net6.0\metros_pulgadas.pdb
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.AssemblyInfo.cs
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.dll
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\ref\metros_pulgadas.dll
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.pdb
+C:\Users\PC\Desktop\metros_pulgadas\obj\Debug\net6.0\metros_pulgadas.genruntimeconfig.cache
