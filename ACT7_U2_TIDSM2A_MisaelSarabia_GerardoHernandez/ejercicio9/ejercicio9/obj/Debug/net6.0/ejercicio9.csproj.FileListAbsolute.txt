@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ejercicio9.exe
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ejercicio9.deps.json
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ejercicio9.runtimeconfig.json
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ejercicio9.dll
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ref\ejercicio9.dll
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\bin\Debug\net6.0\ejercicio9.pdb
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.dll
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ref\ejercicio9.dll
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.pdb
+C:\Users\mrchi\Desktop\Act7TIDSM2A_Misael_Gerardo\ejercicio9\ejercicio9\obj\Debug\net6.0\ejercicio9.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\pos_neg.exe
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\pos_neg.deps.json
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\pos_neg.runtimeconfig.json
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\pos_neg.dll
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\ref\pos_neg.dll
+C:\Users\PC\Desktop\pos_neg\bin\Debug\net6.0\pos_neg.pdb
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.AssemblyInfo.cs
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.dll
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\ref\pos_neg.dll
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.pdb
+C:\Users\PC\Desktop\pos_neg\obj\Debug\net6.0\pos_neg.genruntimeconfig.cache

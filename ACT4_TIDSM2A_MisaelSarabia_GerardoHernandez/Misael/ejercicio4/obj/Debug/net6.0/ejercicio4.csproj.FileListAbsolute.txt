@@ -1,0 +1,15 @@
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.AssemblyInfo.cs
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ejercicio4.exe
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ejercicio4.deps.json
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ejercicio4.runtimeconfig.json
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ejercicio4.dll
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ref\ejercicio4.dll
+C:\Users\juanjo\Desktop\act4\ejercicio4\bin\Debug\net6.0\ejercicio4.pdb
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.dll
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ref\ejercicio4.dll
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.pdb
+C:\Users\juanjo\Desktop\act4\ejercicio4\obj\Debug\net6.0\ejercicio4.genruntimeconfig.cache

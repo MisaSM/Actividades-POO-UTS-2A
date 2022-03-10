@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ej3.exe
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ej3.deps.json
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ej3.runtimeconfig.json
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ej3.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ref\ej3.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\bin\Debug\net6.0\ej3.pdb
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ref\ej3.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.pdb
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\ej3\obj\Debug\net6.0\ej3.genruntimeconfig.cache

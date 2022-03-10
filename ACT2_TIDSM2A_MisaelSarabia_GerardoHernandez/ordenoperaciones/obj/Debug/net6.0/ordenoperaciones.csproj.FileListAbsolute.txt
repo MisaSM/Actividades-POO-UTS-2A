@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ordenoperaciones.exe
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ordenoperaciones.deps.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ordenoperaciones.runtimeconfig.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ordenoperaciones.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ref\ordenoperaciones.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\bin\Debug\net6.0\ordenoperaciones.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ref\ordenoperaciones.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\ordenoperaciones\obj\Debug\net6.0\ordenoperaciones.genruntimeconfig.cache

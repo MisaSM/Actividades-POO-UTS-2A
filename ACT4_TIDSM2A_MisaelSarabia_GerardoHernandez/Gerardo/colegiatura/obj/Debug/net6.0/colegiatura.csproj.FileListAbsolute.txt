@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.AssemblyInfo.cs
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\colegiatura.exe
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\colegiatura.deps.json
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\colegiatura.runtimeconfig.json
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\colegiatura.dll
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\ref\colegiatura.dll
+C:\Users\PC\Desktop\colegiatura\bin\Debug\net6.0\colegiatura.pdb
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.dll
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\ref\colegiatura.dll
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.pdb
+C:\Users\PC\Desktop\colegiatura\obj\Debug\net6.0\colegiatura.genruntimeconfig.cache

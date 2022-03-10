@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "precision_enteros_y_limites/1.0.0": {
+        "runtime": {
+          "precision_enteros_y_limites.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "precision_enteros_y_limites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

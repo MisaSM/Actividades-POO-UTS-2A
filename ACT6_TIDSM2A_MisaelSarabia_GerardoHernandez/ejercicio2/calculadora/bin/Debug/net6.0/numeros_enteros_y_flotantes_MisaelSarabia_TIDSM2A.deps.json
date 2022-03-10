@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A/1.0.0": {
+        "runtime": {
+          "numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.AssemblyInfo.cs
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\impar_par.exe
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\impar_par.deps.json
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\impar_par.runtimeconfig.json
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\impar_par.dll
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\ref\impar_par.dll
+C:\Users\PC\Desktop\impar_par\bin\Debug\net6.0\impar_par.pdb
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.dll
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\ref\impar_par.dll
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.pdb
+C:\Users\PC\Desktop\impar_par\obj\Debug\net6.0\impar_par.genruntimeconfig.cache

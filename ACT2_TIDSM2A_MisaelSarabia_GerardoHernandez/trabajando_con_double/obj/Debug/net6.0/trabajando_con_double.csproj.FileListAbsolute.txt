@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\trabajando_con_double.exe
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\trabajando_con_double.deps.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\trabajando_con_double.runtimeconfig.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\trabajando_con_double.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\ref\trabajando_con_double.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\bin\Debug\net6.0\trabajando_con_double.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\ref\trabajando_con_double.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\trabajando_con_double\obj\Debug\net6.0\trabajando_con_double.genruntimeconfig.cache

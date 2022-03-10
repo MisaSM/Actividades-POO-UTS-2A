@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\desafio.exe
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\desafio.deps.json
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\desafio.runtimeconfig.json
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\desafio.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\ref\desafio.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\bin\Debug\net6.0\desafio.pdb
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\ref\desafio.dll
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.pdb
+C:\Users\mrchi\Desktop\Actividad8\MicrosoftDocs\desafio\obj\Debug\net6.0\desafio.genruntimeconfig.cache

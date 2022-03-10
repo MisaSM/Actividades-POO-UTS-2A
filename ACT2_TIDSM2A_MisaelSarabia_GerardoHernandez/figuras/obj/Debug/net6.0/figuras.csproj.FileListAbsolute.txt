@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\figuras.exe
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\figuras.deps.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\figuras.runtimeconfig.json
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\figuras.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\ref\figuras.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\bin\Debug\net6.0\figuras.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\ref\figuras.dll
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.pdb
+C:\Users\mrchi\Desktop\Act2_tidsm2a_MisaelSarabia_POO\figuras\obj\Debug\net6.0\figuras.genruntimeconfig.cache

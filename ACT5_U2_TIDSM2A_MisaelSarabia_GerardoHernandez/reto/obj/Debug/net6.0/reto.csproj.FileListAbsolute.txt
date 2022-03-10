@@ -1,0 +1,15 @@
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\reto.exe
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\reto.deps.json
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\reto.runtimeconfig.json
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\reto.dll
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\ref\reto.dll
+C:\Users\mrchi\Desktop\actividad5\reto\bin\Debug\net6.0\reto.pdb
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.dll
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\ref\reto.dll
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.pdb
+C:\Users\mrchi\Desktop\actividad5\reto\obj\Debug\net6.0\reto.genruntimeconfig.cache
