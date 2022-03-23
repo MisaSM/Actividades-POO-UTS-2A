@@ -1,0 +1,15 @@
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\bin\Debug\net6.0\practica2.exe
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\bin\Debug\net6.0\practica2.deps.json
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\bin\Debug\net6.0\practica2.runtimeconfig.json
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\bin\Debug\net6.0\practica2.dll
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\bin\Debug\net6.0\practica2.pdb
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.csproj.AssemblyReference.cache
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.AssemblyInfoInputs.cache
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.AssemblyInfo.cs
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.csproj.CoreCompileInputs.cache
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.dll
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\refint\practica2.dll
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.pdb
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\practica2.genruntimeconfig.cache
+C:\Users\GerardoTM\Documents\Tareas poo\practica2\practica2\obj\Debug\net6.0\ref\practica2.dll

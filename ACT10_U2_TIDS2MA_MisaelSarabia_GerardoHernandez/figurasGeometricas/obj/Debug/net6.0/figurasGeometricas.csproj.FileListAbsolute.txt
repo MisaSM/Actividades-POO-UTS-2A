@@ -1,0 +1,15 @@
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.AssemblyInfo.cs
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.exe
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.deps.json
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.runtimeconfig.json
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.dll
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\ref\figurasGeometricas.dll
+C:\Users\juanjo\Desktop\figurasGeometricas\bin\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.dll
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\ref\figurasGeometricas.dll
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.pdb
+C:\Users\juanjo\Desktop\figurasGeometricas\obj\Debug\net6.0\figurasGeometricas.genruntimeconfig.cache
