@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A.csproj": {}
+    "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\Calculadora_MisaelSarabia_TIDSM2A.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A.csproj": {
+    "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\Calculadora_MisaelSarabia_TIDSM2A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A.csproj",
-        "projectName": "numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A",
-        "projectPath": "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A.csproj",
+        "projectUniqueName": "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\Calculadora_MisaelSarabia_TIDSM2A.csproj",
+        "projectName": "Calculadora_MisaelSarabia_TIDSM2A",
+        "projectPath": "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\Calculadora_MisaelSarabia_TIDSM2A.csproj",
         "packagesPath": "C:\\Users\\mrchi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mrchi\\Documents\\Actividades UTS\\POO\\ACT10_U2_TIDS2MA_MisaelSarabia_GerardoHernandez\\numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A\\obj\\",
         "projectStyle": "PackageReference",

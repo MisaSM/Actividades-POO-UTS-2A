@@ -1,0 +1,30 @@
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\Constructores.exe
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\Constructores.deps.json
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\Constructores.dll
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\ref\Constructores.dll
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\bin\Debug\net6.0\Constructores.pdb
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.csproj.AssemblyReference.cache
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.dll
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\ref\Constructores.dll
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.pdb
+C:\Users\mrchi\Desktop\ExamenUnidad2MisaelSarabia_TIDSM2A\ejercicios\pt3\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\Constructores.exe
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\Constructores.deps.json
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\Constructores.dll
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\ref\Constructores.dll
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\bin\Debug\net6.0\Constructores.pdb
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.csproj.AssemblyReference.cache
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.dll
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\ref\Constructores.dll
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.pdb
+C:\Users\mrchi\Documents\Actividades UTS\POO\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache

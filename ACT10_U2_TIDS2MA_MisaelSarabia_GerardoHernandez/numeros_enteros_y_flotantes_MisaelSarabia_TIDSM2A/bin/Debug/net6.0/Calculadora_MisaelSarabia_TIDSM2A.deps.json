@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculadora_MisaelSarabia_TIDSM2A/1.0.0": {
+        "runtime": {
+          "Calculadora_MisaelSarabia_TIDSM2A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora_MisaelSarabia_TIDSM2A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

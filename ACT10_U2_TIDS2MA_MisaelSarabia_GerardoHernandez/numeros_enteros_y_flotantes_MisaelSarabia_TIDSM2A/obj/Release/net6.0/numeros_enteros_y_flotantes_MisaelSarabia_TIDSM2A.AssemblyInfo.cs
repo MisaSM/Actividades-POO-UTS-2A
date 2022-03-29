@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("figurasGeometricas")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("figurasGeometricas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("figurasGeometricas")]
+[assembly: System.Reflection.AssemblyProductAttribute("numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A")]
+[assembly: System.Reflection.AssemblyTitleAttribute("numeros_enteros_y_flotantes_MisaelSarabia_TIDSM2A")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
