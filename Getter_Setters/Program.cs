@@ -15,7 +15,7 @@ for (int i = 0; i < numCelulares; i++)
     var _CompaniaTelefonica = Console.ReadLine();
     Console.WriteLine($"¿Cual es su numero telefonico?");
     var _NumTelefonico = Console.ReadLine();
-    celularesRegistrados[i] = new Celular(_Marca, _Color, _NumCameras, _CompaniaTelefonica, _NumTelefonico);
+    celularesRegistrados[i] = new Celular(_Marca, _Color, _NumCameras, _NumTelefonico, _CompaniaTelefonica);
 }
 
 while (true)
