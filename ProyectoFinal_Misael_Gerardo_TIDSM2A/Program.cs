@@ -77,10 +77,10 @@ while (true)
                 catch (Exception error) { Console.WriteLine("Ese dispositivo no existe, intente de nuevo."); }
             }
 
-            Console.WriteLine($"¿Que le quiere hacer al celular {eleccionCelular + 1}?\n1)Cambiar numero 2)Cambiar compañía\n3)Cancelar");
+            Console.WriteLine($"¿Que le quiere hacer al celular {eleccionCelular + 1}?\n1)Cambiar numero\n2)Cambiar compañía\n3)Descargar app\n4)Salir");
            int opcionTel = Convert.ToInt32(Console.ReadLine());
 
-           switch (opcionTel) 
+            switch (opcionTel)
             {
                 case 1:
                     Console.WriteLine("Escriba el nuevo numero");
@@ -93,6 +93,9 @@ while (true)
                     telVar.SetCompañia(compañiaTelefonica);
                     break;
                 case 3:
+                    telVar.descargarApp();
+                    break;
+                case 4:
                     break;
             }
 
@@ -118,7 +121,7 @@ while (true)
                 catch (Exception error) { Console.WriteLine("Escogió una computadora que no existe"); }
             }
 
-            Console.WriteLine($"¿Que quiere hacerle a la computadora {eleccionPc + 1}?\n1)Actualizar sistema 2)Cambiar proce 3) Cambiar RAM 4)Cancelar");
+            Console.WriteLine($"¿Que quiere hacerle a la computadora {eleccionPc + 1}?\n1)Actualizar sistema 2)Cambiar proce 3) Cambiar RAM 4) Descargar app 5)Cancelar");
             int opcionPc = Convert.ToInt32(Console.ReadLine());
             switch (opcionPc) 
             {
@@ -138,6 +141,9 @@ while (true)
                     pcvar.SetRam(nuevaRam);
                     break;
                 case 4:
+                    pcvar.descargarApp();
+                    break;
+                case 5:
                     break;
             }
 

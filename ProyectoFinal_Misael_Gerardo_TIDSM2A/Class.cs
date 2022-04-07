@@ -64,22 +64,10 @@ namespace Dispositivos
         }
         public override void descargarApp()
         {
-            if (this.sistema == "Android")
-            {
-                Console.WriteLine("Descargando de la play store...");
-                Task.Delay(5000);
-                Console.WriteLine("App descargada!");
-            }
-            if (this.sistema == "IOS")
-            {
-                Console.WriteLine("Descargando de la App store...");
-                Task.Delay(5000);
-                Console.WriteLine("App descargada!");
-            }
-            else
-            {
-                Console.WriteLine("Sistema operativo invalido...");
-            }
+            Console.WriteLine("Descargando app...");
+            Thread.Sleep(5000);
+            Console.WriteLine("App descargada!");
+            Console.ReadKey();
             base.descargarApp();
         }
       
@@ -141,18 +129,10 @@ namespace Dispositivos
 
         public override void descargarApp()
         {
-            if (this.sistema == "Windows")
-            {
-                Console.WriteLine("Descargando de la Microsoft Store...");
-                Task.Delay(5000);
-                Console.WriteLine("App descargada!");
-            }
-            if (this.sistema == "Linux")
-            {
-                Console.WriteLine("Descargando de repositorios oficiales...");
-                Task.Delay(5000);
-                Console.WriteLine("App descargada!");
-            }
+            Console.WriteLine("Descargando app...");
+            Thread.Sleep(5000);
+            Console.WriteLine("App descargada!");
+            Console.ReadKey();
             base.descargarApp();
         }
 
