@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Polimorfismo_MisaelSarabia_GerardoHernandez_TIDSM2A/1.0.0": {
+        "runtime": {
+          "Polimorfismo_MisaelSarabia_GerardoHernandez_TIDSM2A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfismo_MisaelSarabia_GerardoHernandez_TIDSM2A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

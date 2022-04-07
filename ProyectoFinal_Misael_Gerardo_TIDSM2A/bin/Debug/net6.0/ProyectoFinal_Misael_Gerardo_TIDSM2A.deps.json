@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProyectoFinal_Misael_Gerardo_TIDSM2A/1.0.0": {
+        "runtime": {
+          "ProyectoFinal_Misael_Gerardo_TIDSM2A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoFinal_Misael_Gerardo_TIDSM2A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
